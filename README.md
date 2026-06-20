@@ -79,4 +79,3 @@ Git, GitHub, Jupyter Notebook, VS Code
 💼 LinkedIn:
 https://www.linkedin.com/in/vetrivel28/
 
-https://github.com/vetrivel-28
