@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vetrivel 👋
 
-<!--
-**vetrivel-28/vetrivel-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc Data Science Student
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- NLP
+- Data Analytics
+- AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Productivity Classifier
+DistilBERT based NLP system for classifying productive and unproductive content.
+
+### AI Competitive Intelligence Agent
+Agentic AI system for market and competitor analysis.
+
+### Women Safety Voice SOS
+Emergency safety application.
+
+## Tech Stack
+
+Python | SQL | FastAPI | Pandas
+Scikit-Learn | PyTorch | Transformers
+
+## Connect
+
+LinkedIn
+Portfolio
+Email
