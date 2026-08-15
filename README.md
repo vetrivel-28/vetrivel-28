@@ -1,4 +1,4 @@
-# Hi, I'm Vetrivel 👋
+⁹# Hi, I'm Vetrivel 👋
 
 🎓 M.Sc Data Science Student at Coimbatore Institute of Technology
 
@@ -25,12 +25,6 @@ A DistilBERT-powered NLP system that classifies web content as productive or unp
 Agentic AI platform that analyzes competitors, products, customer sentiment, and market trends using RAG pipelines.
 
 **Tech Stack:** FastAPI, LLMs, RAG, Python
-
-### Women Safety Voice SOS
-
-Emergency safety application designed to trigger alerts and location sharing through voice commands.
-
-**Tech Stack:** Python, Mobile Technologies
 
 ### Market Intelligence & Product Analysis Platform
 
